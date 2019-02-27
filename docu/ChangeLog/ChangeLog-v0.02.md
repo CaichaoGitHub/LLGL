@@ -134,7 +134,7 @@ LLGL::GraphicsPipelineDescriptor myGfxPipelineDesc;
 /* ... */
 myGfxPipelineDesc.blend.logicOp = /* ... */;
 myRenderer->CreateGraphicsPipeline(myGfxPipelineDesc);
-```
+```、
 
 
 ## Rasterization line width (OpenGL and Vulkan only)
